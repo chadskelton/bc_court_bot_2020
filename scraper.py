@@ -12,7 +12,8 @@ import time
 from datetime import datetime
 import smtplib
 import requests
-from BeautifulSoup import BeautifulSoup
+# importing BeautifulSoup4 instead - changed on Jan 3 2023
+from BeautifulSoup4 import BeautifulSoup
 # new for secret variables
 import os
 import mechanize
