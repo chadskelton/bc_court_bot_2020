@@ -1,7 +1,7 @@
 -e git+http://github.com/openaustralia/scraperwiki-python.git@morph_defaults#egg=scraperwiki
 
 beautifulsoup4==4.1.3
-mechanize==0.2.5
+mechanize==0.4.6
 # requests==1.0.4
 # requests==2.22.0
 requests==2.27.0
